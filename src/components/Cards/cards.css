@@ -1,0 +1,25 @@
+.container {
+  margin: 50px 0;
+}
+
+.card {
+  display: none;
+  align-items: center;
+}
+
+.card .infected {
+  align-items: center;
+  border-bottom: 10px solid rgb(81, 130, 255);
+
+  margin-left: 50px;
+}
+.card .recovered {
+  align-items: center;
+  border-bottom: 10px solid forestgreen;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.card .deaths {
+  align-items: center;
+  border-bottom: 10px solid red;
+}
