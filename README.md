@@ -5,7 +5,9 @@
 ## INTRODUCTION
 
 A COVID-19 TRACKER APPLICATION BUILT USING
-React, Charts.JS and Material UI.
+- React
+- Charts.JS
+- Material UI.
 
 ## API
 
